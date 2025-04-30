@@ -80,10 +80,10 @@ sass:
 #       * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
 #       * url      Full URL of social profile.
    social_links:
-     - title: @Rakhmatjon_Khasanov
+     - title: Rakhmatjon Khasanov
        icon: telegram
        url: "https://t.me/Rakhmatjon_Khasanov"
-     - title: KhasanovR
+     - title: Rakhmatjon Khasanov
        icon: github
        url: "https://github.com/KhasanovR"
      - title: Rakhmatjon Khasanov
