@@ -1,16 +1,6 @@
 ---
 layout: post
-tags:
-  - literature
-  - book
-  - learning
-  - "#productivity"
-authors:
-  - "[[Scott H. Young]]"
-published: "2019"
-started: "[[2025-04-16]]"
-finished: ""
-related:
+title: "Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career"
 ---
 
 # **Ultralearning**: _Master Hard Skills, Outsmart the Competition, and Accelerate Your Career_
