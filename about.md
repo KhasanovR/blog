@@ -4,15 +4,24 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Assalamu alaikum, Dears 👋
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm Rakhmatjon Khasanov, a software engineer from Uzbekistan, specialized in web development.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+#### I'm good at:
 
+-   Java - Backend Engineering (Spring Boot, Spring Data, etc.)
+-   JS - Frontend Engineering (TS, React, MUI, etc.)
+-   Python - Backend Engineering (Django, DRF, Flask, etc.)
+-   NodeJS - Backend Engineering (Express, etc.)
+-   DBMS - RDB Engineering (MySQL, PostgreSQL, SQLite & H2)
 
-[jekyll-organization]: https://github.com/jekyll
+#### Here is my portfolio:
+
+- my account: [Rakhmatjon Khasanov](https://www.linkedin.com/in/rakhmatjon-khasanov)
+
+#### Contacts:
+
+- E-mail: [r.khasanov97@gmail.com](mailto://r.khasanov97@gmail.com)
+- Phone: [+998(88)-451-27-29](tel://+998884512729)
+- Telegram: [@Rakhmatjon_Khasanov](https://t.me/Rakhmatjon_Khasanov)
