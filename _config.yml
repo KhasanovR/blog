@@ -10,9 +10,11 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
- Write an awesome description for your new site here. You can edit this line
- in _config.yml. It will appear in your document head meta (for Google search
- results) and in your feed.xml site description.
+  Welcome to my blog – a space where I share insights on software development,
+  lifelong learning, productivity, and personal growth. From coding tutorials
+  and tech reviews to reflections on language learning and everyday challenges,
+  this blog is dedicated to helping curious minds grow with clarity, consistency,
+  and creativity.
 
 
 # Build settings
