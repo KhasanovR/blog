@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "**Ultralearning**: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career"
+title: "Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career"
 author: Scott Young
 ---
 
