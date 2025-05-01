@@ -9,7 +9,7 @@ layout: base
 
   {{ content }}
 
-
+{{paginator.total_pages}}
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}

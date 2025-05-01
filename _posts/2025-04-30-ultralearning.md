@@ -4,7 +4,6 @@ title: "Ultralearning: Master Hard Skills, Outsmart the Competition, and Acceler
 author: Scott Young
 ---
 
-## Book Overview 
 *Ultralearning* is a self-directed and intense strategy to acquire fresh ideas, subjects & skills which are helpful for our lives, studies & careers.
 
 ### My Purpose for Reading 
@@ -14,7 +13,7 @@ I'm reading this book to develop more effective learning techniques and potentia
 Young tries to demonstrate that people can master challenging skills faster by using his learning method which is strategic, intensive and self-directed.
 
 ## Foreword
-In the foreword of the book, [[James Clear]],author of [[Atomic Habits]], mentions that one of the reasons for his calls with Scott is the interest to find out more about building good habits and breaking bad ones. Additionally, Both James and Scott have a bias toward action. Then, he mentions the importance of putting the knowledge to use rather than accumulating it. Also he mentions about _"learning by doing"_ with his own experience by taking 100 000 photos in a year which led him to becoming a finalist of Travel Photographer of the Year. 
+In the foreword of the book, [James Clear](#),author of [Atomic Habits](#), mentions that one of the reasons for his calls with Scott is the interest to find out more about building good habits and breaking bad ones. Additionally, Both James and Scott have a bias toward action. Then, he mentions the importance of putting the knowledge to use rather than accumulating it. Also he mentions about _"learning by doing"_ with his own experience by taking 100 000 photos in a year which led him to becoming a finalist of Travel Photographer of the Year. 
 __Learning Something New__ $\neq$ __Practicing Something New__. 
 James' first ultralearning project was a career as a photographer. The next project was becoming an entrepreneur by writing. He followed the 9 principles mentioned in the book step by step.
 - *Principle #1*: **Metalearning** by examining other popular bloggers & authors and their methods in order to create a map to follow.
@@ -28,7 +27,7 @@ Reasons to become a ultralearner:
 - A sense of purpose in life
 - High returns by learning new knowledge & skills
 - Achievability
-> "In many fields a year of focused work plus caring a lot would be enough" - [[Paul Graham]]
+> "In many fields a year of focused work plus caring a lot would be enough" - [Paul Graham](#)
 
 ## The Ultralearning Framework
 
