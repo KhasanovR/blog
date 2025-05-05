@@ -10,7 +10,7 @@ Learning effectively isn’t just about putting in more hours—it’s about usi
 ## Modes of Thinking: Focused vs. Diffuse
 
 
-<img src="{% link ../assets/img/focused-vs-diffuse-modes.png %}" width="100%">
+<img src="{{site.url}}/assets/img/focused-vs-diffuse-modes.png" alt="focused-vs-diffuse-modes" width="100%">
 
 
 When it comes to learning and solving problems, we actually use two very different ways of thinking, and both are essential:
@@ -24,7 +24,7 @@ The key is knowing when to switch between these modes to help your brain form st
 
 ## Pomodoro Technique
 
-<img src="{% link ../assets/img/pomodoro-technique.png %}" width="100%">
+<img src="{{site.url}}/assets/img/pomodoro-technique.png" alt="pomodoro-technique" width="100%">
 
 If staying focused for long periods feels like a struggle, the **Pomodoro Technique** could be your new best friend. Here’s how it works:
 
@@ -38,7 +38,7 @@ This method isn’t just about keeping you on track—it helps reduce fatigue an
 
 ## Active Recall
 
-<img src="{% link ../assets/img/flashcards.jpg %}" width="100%">
+<img src="{{site.url}}/assets/img/flashcards.jpg" alt="flashcards" width="100%">
 
 Instead of passively re-reading your notes or highlighting text, **active recall** has you actively engage with the material. This could be as simple as testing yourself on what you’ve learned, using flashcards, or even explaining concepts to someone else.
 
@@ -48,7 +48,7 @@ Studies show that this approach is far more effective than passive learning beca
 
 ## Spaced Repetition
 
-<img src="{% link ../assets/img/forgetting-curve.png %}" width="100%">
+<img src="{{site.url}}/assets/img/forgetting-curve.png" alt="forgetting-curve" width="100%">
 
 We all know how frustrating it is to forget something right after learning it. But the forgetting curve, a concept introduced by psychologist Hermann Ebbinghaus, explains why this happens. Ebbinghaus found that people tend to forget a large portion of new information very quickly—about 60% of what we learn is forgotten within 24 hours if not reviewed. The curve flattens over time, meaning that the more we reinforce what we've learned, the less likely we are to forget it.
 [^4]
@@ -62,8 +62,8 @@ And if you combine spaced repetition with active recall (actively retrieving inf
 
 ## Interleaving
 
-<img src="{% link ../assets/img/blocked-practice.png %}" width="100%">
-<img src="{% link ../assets/img/interleaved-practice.png %}" width="100%">
+<img src="{{site.url}}/assets/img/blocked-practice.png" alt="blocked-practice" width="100%">
+<img src="{{site.url}}/assets/img/interleaved-practice.png" alt="interleaved-practice" width="100%">
 
 
 **Interleaving** might sound like a fancy term, but it’s simple in practice. Instead of studying one subject or problem type for a long time, try mixing up different topics in a single session. While it may feel harder at first, it actually improves your ability to learn over the long term by teaching you how to switch between concepts and apply them more flexibly.
@@ -74,7 +74,7 @@ This method might challenge your brain, but the payoff is worth it. [^6]
 
 ## Mnemonics
 
-<img src="{% link ../assets/img/mnemonics.png%}" width="100%">
+<img src="{{site.url}}/assets/img/mnemonics.png" alt="mnemonics" width="100%">
 
 One of the easiest ways to remember complex information is with **mnemonics**—these are memory aids that use patterns like acronyms, rhymes, or vivid images.
 

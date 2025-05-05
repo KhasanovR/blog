@@ -31,7 +31,7 @@ Good note-taking has numerous benefits for your brain:
 
 ### Cornell Method
 
-![]({% link ../assets/img/cornell-note-taking.jpeg %})
+![cornell-note-taking]({{site.url}}/assets/img/cornell-note-taking.jpeg)
 
 This popular method helps you stay organized and efficient:
 
@@ -74,7 +74,7 @@ For visual learners, **mind maps** and **concept maps** offer excellent ways to 
 * **Mind Maps**: Start with a central concept and branch out into related ideas using colors and images.
 * **Concept Maps**: Use structured diagrams with labeled connections between concepts.
 
-![]({% link ../assets/img/concept-map-vs-mind-map.png %})
+![concept-map-vs-mind-map]({{site.url}}/assets/img/concept-map-vs-mind-map.png)
 
 ### Charting Method
 
@@ -101,7 +101,7 @@ This powerful method focuses on building a network of interconnected notes:
 * **Process**: Create single-idea notes, link related concepts, and express ideas in your own words.
 * **Best for**: Research, writing projects, and long-term knowledge building.
 
-![]({% link ../assets/img/zettelkasten_paper_schematic.png %})
+![zettelkasten_paper_schematic]({{site.url}}/assets/img/zettelkasten_paper_schematic.png)
 
 ### Evergreen Notes
 
