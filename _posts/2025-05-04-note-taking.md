@@ -175,18 +175,8 @@ should your note-taking methods—always serve your learning, don’t let your s
 ## References
 
 [^1]: Ebbinghaus, H. (1885). *Memory: A Contribution to Experimental Psychology*.
-
-[^2]: Mueller, P. A., & Oppenheimer, D. M. (
-2014). [The pen is mightier than the keyboard: Advantages of longhand over laptop note taking](https://doi.org/10.1177/0956797614524581).
-*Psychological Science*.
-
-[^3]: Slamecka, N. J., & Graf, P. (
-1978). [The generation effect: Delineation of a phenomenon](https://doi.org/10.1037/0278-7393.4.6.602). *Journal of
-Experimental Psychology: Human Learning and Memory*.
-
-[^4]: Roediger, H. L., & Butler, A. C. (
-2011). [The critical role of retrieval practice in long-term retention](https://doi.org/10.1037/a0022327). *Trends in
-Cognitive Sciences*.
-
+[^2]: Mueller, P. A., & Oppenheimer, D. M. (2014). [The pen is mightier than the keyboard: Advantages of longhand over laptop note taking](https://doi.org/10.1177/0956797614524581).*Psychological Science*.
+[^3]: Slamecka, N. J., & Graf, P. (1978). [The generation effect: Delineation of a phenomenon](https://doi.org/10.1037/0278-7393.4.6.602). *Journal of Experimental Psychology: Human Learning and Memory*.
+[^4]: Roediger, H. L., & Butler, A. C. (2011). [The critical role of retrieval practice in long-term retention](https://doi.org/10.1037/a0022327). *Trends in Cognitive Sciences*.
 [^5]: Paivio, A. (1986). *Mental representations: A dual coding approach*.
 
