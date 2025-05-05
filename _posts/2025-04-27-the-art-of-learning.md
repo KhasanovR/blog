@@ -31,7 +31,7 @@ creatively. [^1]
 
 ## Pomodoro Technique
 
-<img src="{{'/assets/img/pomodoro-technique.png | relative_url '}}" alt="pomodoro-technique" width="100%">
+<img src="{{'/assets/img/pomodoro-technique.png' | relative_url }}" alt="pomodoro-technique" width="100%">
 
 If staying focused for long periods feels like a struggle, the **Pomodoro Technique** could be your new best friend.
 Here’s how it works:
@@ -47,7 +47,7 @@ session. [^2]
 
 ## Active Recall
 
-<img src="{{'/assets/img/flashcards.jpg | relative_url '}}" alt="flashcards" width="100%">
+<img src="{{'/assets/img/flashcards.jpg' | relative_url }}" alt="flashcards" width="100%">
 
 Instead of passively re-reading your notes or highlighting text, **active recall** has you actively engage with the
 material. This could be as simple as testing yourself on what you’ve learned, using flashcards, or even explaining
@@ -60,7 +60,7 @@ that make the information stick. [^3]
 
 ## Spaced Repetition
 
-<img src="{{'/assets/img/forgetting-curve.png | relative_url '}}" alt="forgetting-curve" width="100%">
+<img src="{{'/assets/img/forgetting-curve.png' | relative_url }}" alt="forgetting-curve" width="100%">
 
 We all know how frustrating it is to forget something right after learning it. But the forgetting curve, a concept
 introduced by psychologist Hermann Ebbinghaus, explains why this happens. Ebbinghaus found that people tend to forget a
@@ -81,8 +81,8 @@ two powerful techniques at once, ensuring that what you learn sticks around for 
 
 ## Interleaving
 
-<img src="{{'/assets/img/blocked-practice.png | relative_url '}}" alt="blocked-practice" width="100%">
-<img src="{{'/assets/img/interleaved-practice.png | relative_url '}}" alt="interleaved-practice" width="100%">
+<img src="{{'/assets/img/blocked-practice.png' | relative_url }}" alt="blocked-practice" width="100%">
+<img src="{{'/assets/img/interleaved-practice.png' | relative_url }}" alt="interleaved-practice" width="100%">
 
 
 **Interleaving** might sound like a fancy term, but it’s simple in practice. Instead of studying one subject or problem
@@ -96,7 +96,7 @@ This method might challenge your brain, but the payoff is worth it. [^6]
 
 ## Mnemonics
 
-<img src="{{'/assets/img/mnemonics.png | relative_url '}}" alt="mnemonics" width="100%">
+<img src="{{'/assets/img/mnemonics.png' | relative_url }}" alt="mnemonics" width="100%">
 
 One of the easiest ways to remember complex information is with **mnemonics**—these are memory aids that use patterns
 like acronyms, rhymes, or vivid images.
@@ -110,8 +110,16 @@ It's simple, but it works! [^7]
 
 [^1]: Oakley, B. (2014). *A Mind for Numbers: How to Excel at Math and Science*.
 [^2]: Cirillo, F. (1980s). *The Pomodoro Technique*.
-[^3]: Roediger, H. L., & Karpicke, J. D. (2006). [Test-enhanced learning: Taking memory tests improves long-term retention](https://doi.org/10.1037/0278-7393.33.4.701).*Psychological Science*.
-[^4]: Ebbinghaus, H. (1885). [Memory: A Contribution to Experimental Psychology](https://archive.org/details/memory-a-contribution-to-experimental-psychology).*Psychological Monographs*.
-[^5]: Cepeda, N. J., et al. (2006). [Distributed practice in verbal recall tasks](https://doi.org/10.1037/0033-2909.132.3.354). *Psychological Bulletin*.
-[^6]: Rohrer, D., & Taylor, K. (2007). [The shuffling of mathematics problems improves learning](https://doi.org/10.1037/0278-7393.33.4.718). *Applied Cognitive Psychology*.
+[^3]: Roediger, H. L., & Karpicke, J. D. (
+2006). [Test-enhanced learning: Taking memory tests improves long-term retention](https://doi.org/10.1037/0278-7393.33.4.701).
+*Psychological Science*.
+[^4]: Ebbinghaus, H. (
+1885). [Memory: A Contribution to Experimental Psychology](https://archive.org/details/memory-a-contribution-to-experimental-psychology).
+*Psychological Monographs*.
+[^5]: Cepeda, N. J., et al. (
+2006). [Distributed practice in verbal recall tasks](https://doi.org/10.1037/0033-2909.132.3.354). *Psychological
+Bulletin*.
+[^6]: Rohrer, D., & Taylor, K. (
+2007). [The shuffling of mathematics problems improves learning](https://doi.org/10.1037/0278-7393.33.4.718). *Applied
+Cognitive Psychology*.
 [^7]: Yates, F. A. (1966). *The Art of Memory*.
