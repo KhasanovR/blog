@@ -4,9 +4,11 @@ title: "From Notes to Knowledge: How to Take Smarter, More Effective Notes"
 ---
 
 Effective note-taking isn’t just about writing down everything you hear or see.
-It's an intentional and structured approach to capturing and organizing information to enhance comprehension, retention, and future retrieval.
-Whether you're in class, in a meeting, or reading a book, your notes can serve as a powerful cognitive tool. 
-They can help you think more critically, remember more effectively, and, most importantly, improve how you learn and apply new knowledge.
+It's an intentional and structured approach to capturing and organizing information to enhance comprehension, retention,
+and future retrieval.
+Whether you're in class, in a meeting, or reading a book, your notes can serve as a powerful cognitive tool.
+They can help you think more critically, remember more effectively, and, most importantly, improve how you learn and
+apply new knowledge.
 
 ---
 
@@ -14,21 +16,27 @@ They can help you think more critically, remember more effectively, and, most im
 
 Good note-taking has numerous benefits for your brain:
 
-* **Memory Retention**: Combat the **Ebbinghaus Forgetting Curve**, which shows that we forget around **40% of information within 24 hours** unless we reinforce it[^1].
-* **Cognitive Processing**: Handwriting notes activates different neural pathways than typing, helping you better process and understand information[^2].
-* **Active Engagement**: Instead of passively listening, taking notes forces you to engage with the material, deepening your learning experience.
-* **Dual Functionality**: Notes serve both as an active learning tool during the note-taking process and as a future reference to store knowledge.
+* **Memory Retention**: Combat the **Ebbinghaus Forgetting Curve**, which shows that we forget around **40% of
+  information within 24 hours** unless we reinforce it[^1].
+* **Cognitive Processing**: Handwriting notes activates different neural pathways than typing, helping you better
+  process and understand information[^2].
+* **Active Engagement**: Instead of passively listening, taking notes forces you to engage with the material, deepening
+  your learning experience.
+* **Dual Functionality**: Notes serve both as an active learning tool during the note-taking process and as a future
+  reference to store knowledge.
 
 ---
 
 ## Traditional Note-Taking Systems
 
 ### Cornell Method
-![cornell-note-taking.png](/assets/img/cornell-note-taking.jpeg)
+
+![cornell-note-taking.png]({% link /assets/img/cornell-note-taking.jpeg %})
 
 This popular method helps you stay organized and efficient:
 
-* **Structure**: Divide the page into three sections: Notes column (right), Cue column (left), and a Summary section (bottom).
+* **Structure**: Divide the page into three sections: Notes column (right), Cue column (left), and a Summary section (
+  bottom).
 * **Process**: Record notes, create cues/questions within 24 hours, and summarize the key points.
 * **Best for**: Lectures, exam preparation, structured learning.
 
@@ -66,7 +74,7 @@ For visual learners, **mind maps** and **concept maps** offer excellent ways to 
 * **Mind Maps**: Start with a central concept and branch out into related ideas using colors and images.
 * **Concept Maps**: Use structured diagrams with labeled connections between concepts.
 
-![concept-map-vs-mind-map.png](/assets/img/concept-map-vs-mind-map.png)
+![concept-map-vs-mind-map.png]({% link /assets/img/concept-map-vs-mind-map.png %})
 
 ### Charting Method
 
@@ -76,7 +84,7 @@ For visual learners, **mind maps** and **concept maps** offer excellent ways to 
 ---
 
 | Method  | Description | Application | Examples | Reference |
-| ------- | ----------- | ----------- | -------- | --------- |
+|---------|-------------|-------------|----------|-----------|
 | Topic 1 |             |             |          |           |
 | Topic 2 |             |             |          |           |
 | Topic 3 |             |             |          |           |
@@ -93,7 +101,7 @@ This powerful method focuses on building a network of interconnected notes:
 * **Process**: Create single-idea notes, link related concepts, and express ideas in your own words.
 * **Best for**: Research, writing projects, and long-term knowledge building.
 
-![zettelkasten_paper_schematic.png](/assets/img/zettelkasten_paper_schematic.png)
+![zettelkasten_paper_schematic.png]({% link /assets/img/zettelkasten_paper_schematic.png %})
 
 ### Evergreen Notes
 
@@ -103,7 +111,7 @@ These notes evolve over time, becoming a dynamic resource for your future self:
 * Best for organizing concepts, ideas, and research you’ll revisit frequently.
 
 | Feature       | Evergreen Note                           | Zettel                                      |
-| ------------- | ---------------------------------------- | ------------------------------------------- |
+|---------------|------------------------------------------|---------------------------------------------|
 | Purpose       | Thought development & long-term thinking | Academic writing & research thinking        |
 | Structure     | Clean, well-written, standalone          | Shorter, ID-based, sometimes rough          |
 | Links         | Organic & intentional                    | Dense, systemic, networked                  |
@@ -159,7 +167,8 @@ Your note-taking approach should be adapted depending on the context:
 * **Meetings**: Focus on clarity and capturing action items.
 * **Personal Use**: Flexible and tailored to your individual goals.
 
-**Remember**: The best note-taking system is the one that fits your needs and can grow with you. As you evolve, so should your note-taking methods—always serve your learning, don’t let your system control you.
+**Remember**: The best note-taking system is the one that fits your needs and can grow with you. As you evolve, so
+should your note-taking methods—always serve your learning, don’t let your system control you.
 
 ---
 
@@ -167,11 +176,17 @@ Your note-taking approach should be adapted depending on the context:
 
 [^1]: Ebbinghaus, H. (1885). *Memory: A Contribution to Experimental Psychology*.
 
-[^2]: Mueller, P. A., & Oppenheimer, D. M. (2014). [The pen is mightier than the keyboard: Advantages of longhand over laptop note taking](https://doi.org/10.1177/0956797614524581). *Psychological Science*.
+[^2]: Mueller, P. A., & Oppenheimer, D. M. (
+2014). [The pen is mightier than the keyboard: Advantages of longhand over laptop note taking](https://doi.org/10.1177/0956797614524581).
+*Psychological Science*.
 
-[^3]: Slamecka, N. J., & Graf, P. (1978). [The generation effect: Delineation of a phenomenon](https://doi.org/10.1037/0278-7393.4.6.602). *Journal of Experimental Psychology: Human Learning and Memory*.
+[^3]: Slamecka, N. J., & Graf, P. (
+1978). [The generation effect: Delineation of a phenomenon](https://doi.org/10.1037/0278-7393.4.6.602). *Journal of
+Experimental Psychology: Human Learning and Memory*.
 
-[^4]: Roediger, H. L., & Butler, A. C. (2011). [The critical role of retrieval practice in long-term retention](https://doi.org/10.1037/a0022327). *Trends in Cognitive Sciences*.
+[^4]: Roediger, H. L., & Butler, A. C. (
+2011). [The critical role of retrieval practice in long-term retention](https://doi.org/10.1037/a0022327). *Trends in
+Cognitive Sciences*.
 
 [^5]: Paivio, A. (1986). *Mental representations: A dual coding approach*.
 
