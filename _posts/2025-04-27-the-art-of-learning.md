@@ -12,7 +12,7 @@ and far more effective.
 
 ## Modes of Thinking: Focused vs. Diffuse
 
-<img src="/assets/img/focused-vs-diffuse-modes.png" alt="focused-vs-diffuse-modes" width="100%">
+<img src="{{'/assets/img/focused-vs-diffuse-modes.png' | relative_url }}" alt="focused-vs-diffuse-modes" width="100%">
 
 
 When it comes to learning and solving problems, we actually use two very different ways of thinking, and both are
