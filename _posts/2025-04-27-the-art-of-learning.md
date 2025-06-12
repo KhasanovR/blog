@@ -110,8 +110,16 @@ It's simple, but it works! [^7]
 
 [^1]: Oakley, B. (2014). *A Mind for Numbers: How to Excel at Math and Science*.
 [^2]: Cirillo, F. (1980s). *The Pomodoro Technique*.
-[^3]: Roediger, H. L., & Karpicke, J. D. (2006). [Test-enhanced learning: Taking memory tests improves long-term retention](https://doi.org/10.1037/0278-7393.33.4.701).*Psychological Science*.
-[^4]: Ebbinghaus, H. (1885). [Memory: A Contribution to Experimental Psychology](https://archive.org/details/memory-a-contribution-to-experimental-psychology).*Psychological Monographs*.
-[^5]: Cepeda, N. J., et al. (2006). [Distributed practice in verbal recall tasks](https://doi.org/10.1037/0033-2909.132.3.354). *Psychological Bulletin*.
-[^6]: Rohrer, D., & Taylor, K. (2007). [The shuffling of mathematics problems improves learning](https://doi.org/10.1037/0278-7393.33.4.718). *Applied Cognitive Psychology*.
+[^3]: Roediger, H. L., & Karpicke, J. D. (
+2006). [Test-enhanced learning: Taking memory tests improves long-term retention](https://doi.org/10.1037/0278-7393.33.4.701).
+*Psychological Science*.
+[^4]: Ebbinghaus, H. (
+1885). [Memory: A Contribution to Experimental Psychology](https://archive.org/details/memory-a-contribution-to-experimental-psychology).
+*Psychological Monographs*.
+[^5]: Cepeda, N. J., et al. (
+2006). [Distributed practice in verbal recall tasks](https://doi.org/10.1037/0033-2909.132.3.354). *Psychological
+Bulletin*.
+[^6]: Rohrer, D., & Taylor, K. (
+2007). [The shuffling of mathematics problems improves learning](https://doi.org/10.1037/0278-7393.33.4.718). *Applied
+Cognitive Psychology*.
 [^7]: Yates, F. A. (1966). *The Art of Memory*.
