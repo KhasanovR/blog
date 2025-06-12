@@ -1,2 +1,79 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+// Modern color palette
+body {
+  background: #f8fafc;
+  color: #22223b;
+  font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.7;
+}
+
+.wrapper {
+  max-width: 800px;
+  margin: 2rem auto;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 16px rgba(34,34,59,0.07);
+  padding: 2rem 2.5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #3a5a40;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+a {
+  color: #0077b6;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+a:hover, a:focus {
+  color: #023e8a;
+  text-decoration: underline;
+}
+
+.post-list li {
+  margin-bottom: 2.2rem;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid #e0e1dd;
+}
+
+.page-heading, .post-title {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  color: #22223b;
+}
+
+.post-meta {
+  color: #6c757d;
+  font-size: 0.95rem;
+  margin-bottom: 1.2rem;
+}
+
+// Buttons (if any)
+button, .btn {
+  background: #0077b6;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.6em 1.2em;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s, box-shadow 0.2s;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+}
+button:hover, .btn:hover {
+  background: #023e8a;
+}
+
+// Responsive tweaks
+@media (max-width: 600px) {
+  .wrapper {
+    padding: 1rem 0.5rem;
+  }
+  .page-heading, .post-title {
+    font-size: 2rem;
+  }
+}
